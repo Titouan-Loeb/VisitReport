@@ -1,7 +1,10 @@
-# Rapport de visite
+# Visit report
 
-A new Flutter project.
+A mobile made with flutterflow to take notes in many different ways:
+- Speech to text
+- Voice memos
+- Photos
+- Automatic address detection
+- Manual text notes
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+The notes are used to pre-generate emails.
